@@ -78,4 +78,7 @@ import (
 
 	// Register zookeeper plugin.
 	_ "github.com/prometheus/prometheus/discovery/zookeeper"
+
+	// Register oci plugin.
+	_ "github.com/prometheus/prometheus/discovery/oci"
 )

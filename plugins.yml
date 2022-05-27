@@ -18,3 +18,4 @@
 - github.com/prometheus/prometheus/discovery/uyuni
 - github.com/prometheus/prometheus/discovery/xds
 - github.com/prometheus/prometheus/discovery/zookeeper
+- github.com/prometheus/prometheus/discovery/oci
